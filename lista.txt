@@ -1,0 +1,5 @@
+D:\D maris\UPC\3er CICLO\Algoritmos y estructuras de datos\PC1\Video\PlayMusic\PlayMusic\Debug\musica1.wav
+D:\D maris\UPC\3er CICLO\Algoritmos y estructuras de datos\PC1\Video\PlayMusic\PlayMusic\Debug\musica2.wav
+D:\D maris\UPC\3er CICLO\Algoritmos y estructuras de datos\PC1\Video\PlayMusic\PlayMusic\Debug\musica3.wav
+D:\D maris\UPC\3er CICLO\Algoritmos y estructuras de datos\PC1\Video\PlayMusic\PlayMusic\Debug\musica4.wav
+D:\D maris\UPC\3er CICLO\Algoritmos y estructuras de datos\PC1\Video\PlayMusic\PlayMusic\Debug\musica5.wav
