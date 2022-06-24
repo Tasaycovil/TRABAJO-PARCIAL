@@ -72,7 +72,7 @@ int main()
             cout << "\nArreglo de canciones ordenado por quickselect cuando el kesimo elemento es 2 :\n" << e;
             break;*/
         case 6:
-            cout << "Agrega canciones para reproducir aleatoriamente" << endl;
+            cout << "Escoge el numero de canciones aleatorias" << endl;
             cin >> n;
             fflush(stdin);
             DatasetCancion(listMusic);
