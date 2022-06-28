@@ -5,7 +5,7 @@
 
 using namespace std;
 
-//Tamaño de la tabla 
+//TamaÃ±o de la tabla 
 const int tamano_tablah = 1000;
 
 class HashTabla {
@@ -13,7 +13,7 @@ private:
 	HashEntidad** tabla;
 
 public:
-	//Funcion que delimita el tamaño de la tabla 
+	//Funcion que delimita el tamaÃ±o de la tabla 
 	HashTabla() {
 		tabla = new HashEntidad * [tamano_tablah];
 		for (int i = 0; i < tamano_tablah; i++) {
@@ -77,14 +77,13 @@ void RetornoTabla() {
 	int key, value;
 	int opcion;
 	while (1) {
-		cout << "\t\t|_____   PLAYMUSIC    _____|" << endl;
-		cout << "\t\t|__  Insercion por HASH  __|" << endl;
-		cout << "\t\t|   1.Insertar Cancion:    |" << endl;
-		cout << "\t\t|   2.Buscar Cancion:      |" << endl;
-		cout << "\t\t|   3.Borrar Cancion:      |" << endl;
-		cout << "\t\t|__________________________|" << endl;
-		cout << "\t\t|   4.Salir                |" << endl;
-		cout << "\t\t|__________________________|" << endl;
+		cout << "\t\t|       PLAYMUSIC                           |" << endl;
+		cout << "\t\t|   Insercion por HASH                      |" << endl;
+		cout << "\t\t|   1.Insertar valor y key de cancion       |" << endl;
+		cout << "\t\t|   2.Buscar Cancion por key                |" << endl;
+		cout << "\t\t|   3.Borrar Cancion por key                |" << endl;
+		cout << "\t\t|   4.Salir                                 |" << endl;
+		cout << "\t\t|_______________|" << endl;
 		cout << "\t\t\tIngrese una opcion: ";
 
 		cin >> opcion;
